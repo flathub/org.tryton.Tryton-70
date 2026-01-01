@@ -20,7 +20,6 @@
   <url type="translate">https://translate.tryton.org/</url>
   <url type="vcs-browser">https://code.tryton.org/tryton</url>
   <project_group>Tryton</project_group>
-  <developer_name>Tryton</developer_name>
   <developer id="org.tryton">
       <name>The Tryton Project</name>
   </developer> 
