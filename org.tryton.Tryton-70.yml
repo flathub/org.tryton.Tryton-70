@@ -1,7 +1,7 @@
 id: org.tryton.Tryton-70
 sdk: org.gnome.Sdk
 runtime: org.gnome.Platform
-runtime-version: '48'
+runtime-version: '51'
 command: tryton
 finish-args:
   - --share=ipc
